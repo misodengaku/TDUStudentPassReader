@@ -7,7 +7,7 @@ PaSoRi (RC-S310で動作確認)
 
 ## ライブラリの著作権表示
 
-[felicalib](http://felicalib.tmurakam.org/)
+### [felicalib](http://felicalib.tmurakam.org/)
 Copyright 1992-2012 The FreeBSD Project. All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
